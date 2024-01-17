@@ -1,0 +1,72 @@
+body {
+  background-color: greenyellow;
+  font-family: cursive;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  text-decoration: underline green;
+}
+h2 {
+  font-size: 30px;
+  text-decoration: underline blue;
+}
+p {
+  font-size: 16px;
+}
+a:hover {
+  color: orangered;
+}
+a:active {
+  color: blue
+}
+img {
+  border-style: groove;
+  border-width: 8px;
+  border-color: blue green;
+}
+.image_right {
+  float: right;
+}
+.image_center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navigation_bar {
+  background-color: cyan;
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+  padding: 10px;
+  margin: 22.5px;
+  border-style: groove;
+  border-color: black;
+  border-width: 4px;
+}
+.attribution_left {
+  text-align: left;
+  clear: left;
+  color: darkslategray;
+}
+.attribution_right {
+  text-align: right;
+  clear: right;
+  color: darkslategray;
+}
+.attribution_center {
+  text-align: center;
+  clear: center;
+  color: darkslategray;
+}
+.color {
+  color: white;
+  margin-right: 90%;
+  text-align: center;
+}
+.blue {
+  background-color: blue;
+}
+.red {
+  background-color: red;
+}
